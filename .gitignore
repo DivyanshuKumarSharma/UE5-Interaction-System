@@ -1,0 +1,43 @@
+# Unreal Engine generated / build output
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+
+# IDE and generated project files
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.ignore
+
+# Compiled / debug artifacts
+*.pdb
+*.dll
+*.exe
+*.lib
+*.obj
+*.ipch
+*.target
+*.modules
+
+# Per-user editor content and local settings
+Content/Developers/
+Content/Collections/
+Config/DefaultEditorPerProjectUserSettings.ini
+*.uproject.user
+
+# OS
+Thumbs.db
+.DS_Store
